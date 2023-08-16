@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello everyone! ✨
+I'm Will0mane! A Java addicted Enderman that works on @CoralMC-It as a Developer
+
+### Suggestion
+Look at my public repositories and the pinned ones! (They are very beatiful 😎)
+
+### Contact Me
+If you want to contact me, you can text me on Discord @will0mane!
 
 <!--
 **Will0mane/Will0mane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
