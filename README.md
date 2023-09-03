@@ -1,3 +1,23 @@
+[![Will0mane's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Will0mane&theme=tokyonight)](https://github.com/Will0mane/Will0mane/)
+
+<a href="https://github.com/Will0mane/Adventure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gioxox&repo=explosionplugin&theme=tokyonight"/>
+</a>
+
+<br></br>
+<p align="center">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img alt="C++" src="https://img.shields.io/badge/C++-%231572B6.svg?&style=for-the-badge&logo=C++&logoColor=white"/>
+</p>
+
+<p align="center">
+    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img alt"VisualStudioCode" src="https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+
 ### Hello everyone! ✨
 I'm Will0mane! A Java addicted Enderman that works on [@CoralMC-It](https://github.com/CoralMC-It) as a Developer
 
