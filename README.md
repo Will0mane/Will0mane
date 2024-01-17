@@ -1,3 +1,5 @@
+
+<p align="center">
 [![Will0mane's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Will0mane&theme=tokyonight)](https://github.com/Will0mane/Will0mane/)
 
 <a href="https://github.com/Will0mane/Adventure-API">
@@ -5,6 +7,7 @@
 </a>
 
 <br></br>
+</p>
 
 <p align="center">
     <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
