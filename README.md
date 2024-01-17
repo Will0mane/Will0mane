@@ -6,9 +6,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adventure-Team&repo=Pulse&theme=tokyonight"/>
 </a>
 
-<br></br>
+<br>
     <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img alt"VisualStudioCode" src="https://img.shields.io/badge/visualstudiocode-2FA4F2.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 
