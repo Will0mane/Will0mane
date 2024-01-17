@@ -1,7 +1,7 @@
 [![Will0mane's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Will0mane&theme=tokyonight)](https://github.com/Will0mane/Will0mane/)
 
 <a href="https://github.com/Will0mane/Adventure-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Will0mane&repo=Adventure-API&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Adventure-Team&repo=Pulse&theme=tokyonight"/>
 </a>
 
 <br></br>
