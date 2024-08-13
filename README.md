@@ -12,7 +12,7 @@
 
 
 ### Hello everyone! ✨
-I'm Will0mane! A Java addicted Enderman that works on [@CoralMC-It](https://github.com/CoralMC-It) as a Developer
+I'm Will0mane! A Java addicted Enderman that works on [@CoralMC-It](https://github.com/CoralMC-It) as a Sr. Developer
 
 ### Suggestion
 Look at my public repositories and the pinned ones! (They are very beatiful 😎)
