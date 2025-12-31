@@ -15,7 +15,7 @@
 I'm Will0mane! A Java addicted Enderman that works on [@CoralMC-It](https://github.com/CoralMC-It) as a Sr. Developer
 
 ### Suggestion
-Look at my public repositories and the pinned ones! (They are very beatiful 😎)
+Look at my public repositories and the pinned ones! (They are very beautiful 😎)
 
 ### Contact Me
 If you want to contact me, you can text me on Discord @will0mane!
